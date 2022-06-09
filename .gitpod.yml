@@ -1,0 +1,13 @@
+image: "pan93412/gitpod-fast-rust-image:main"
+
+vscode:
+  extensions:
+    # Rust
+    - "rust-lang.rust-analyzer"
+    - "Zerotaskx.rust-extension-pack"
+
+    # Git
+    - "cschleiden.vscode-github-actions"
+    - "eamodio.gitlens"
+    - "donjayamanne.githistory"
+    - "mhutchie.git-graph"
